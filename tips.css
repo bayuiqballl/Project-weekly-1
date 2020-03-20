@@ -1,0 +1,23 @@
+body {
+    background-color: #EEDD42;
+}
+.media img{
+    padding-top: 5%;
+}
+.media .social{
+    padding-top: 5%;
+    padding-left: 5%;
+    width: 20%;
+}
+.media-body {
+    padding-top: 5%;
+    padding-left: 10%;
+    font-size: large;
+}
+
+.total ul li{
+    list-style-type: none;
+}
+.hari ul li{
+    list-style-type: none;
+}
