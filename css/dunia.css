@@ -1,17 +1,20 @@
 body {
     background-color: #EEDD42;
 }
-.media img{
+
+.media img {
     padding-top: 5%;
 }
+
 .media-body {
     padding-top: 5%;
     padding-left: 10%;
 }
 
-.total ul li{
+.total ul li {
     list-style-type: none;
 }
-.hari ul li{
+
+.hari ul li {
     list-style-type: none;
 }
