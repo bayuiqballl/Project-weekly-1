@@ -19,9 +19,9 @@ Komponen terbuat :
 
 > anggota Kelompok 1 :
 >
-> 1.  Bayu
-> 2.  Iqbal
-> 3.  Raif
+> 1.  Bayu (Home and About)
+> 2.  Iqbal (Penyebaran Dunia and Tips)
+> 3.  Raif (Penyebaran Indonesia and Gejala)
 
 untuk link Figma design: </br>
 [disini](https://www.figma.com/file/eR1BNMp7iRyn2PAFwvst7s/Project-week-1?node-id=0%3A1)
