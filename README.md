@@ -23,4 +23,8 @@ Komponen terbuat :
 > 2.  Iqbal
 > 3.  Raif
 
-untuk link website bisa di akses :
+untuk link Figma design: </br>
+[disini](https://www.figma.com/file/eR1BNMp7iRyn2PAFwvst7s/Project-week-1?node-id=0%3A1)
+
+untuk link website bisa di akses : </br>
+[disini](https://corona-blog.netlify.com/)
